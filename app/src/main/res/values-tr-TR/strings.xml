@@ -1,102 +1,102 @@
 <resources>
     <!-- Navigation drawer -->
-    <string name="nav_notes">Notes</string>
-    <string name="nav_archive">Archive</string>
-    <string name="nav_deleted">Deleted</string>
-    <string name="nav_settings">Settings</string>
-    <string name="nav_about">About</string>
-    <string name="nav_tags">Tags</string>
-    <string name="nav_all_notes">All Notes</string>
-    <string name="nav_notebooks">Notebooks</string>
-    <string name="nav_your_notebooks">Your Notebooks</string>
+    <string name="nav_notes">Notlar</string>
+    <string name="nav_archive">Arşiv</string>
+    <string name="nav_deleted">Silinenler</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="nav_about">Hakkında</string>
+    <string name="nav_tags">Etiketler</string>
+    <string name="nav_all_notes">Tüm Notlar</string>
+    <string name="nav_notebooks">Not Defterleri</string>
+    <string name="nav_your_notebooks">Not Defterlerim</string>
 
     <!-- Preferences -->
-    <string name="preferences_header_general">General</string>
-    <string name="preferences_theme_mode">Theme mode</string>
-    <string name="preferences_theme_mode_dark">Dark</string>
-    <string name="preferences_theme_mode_light">Light</string>
-    <string name="preferences_theme_mode_system">Follow system</string>
+    <string name="preferences_header_general">Genel</string>
+    <string name="preferences_theme_mode">Tema</string>
+    <string name="preferences_theme_mode_dark">Karanlık</string>
+    <string name="preferences_theme_mode_light">Aydınlık</string>
+    <string name="preferences_theme_mode_system">Sisteme Uy</string>
 
-    <string name="preferences_header_view">View</string>
-    <string name="preferences_layout_mode">Layout mode</string>
-    <string name="preferences_layout_mode_grid">Grid</string>
-    <string name="preferences_layout_mode_list">List</string>
+    <string name="preferences_header_view">Görüntüleme</string>
+    <string name="preferences_layout_mode">Düzen</string>
+    <string name="preferences_layout_mode_grid">Izgara</string>
+    <string name="preferences_layout_mode_list">Liste</string>
 
     <string name="preferences_color_scheme">Color scheme</string>
-    <string name="preferences_color_scheme_blue">Blue</string>
-    <string name="preferences_color_scheme_pink">Pink</string>
-    <string name="preferences_color_scheme_green">Green</string>
-    <string name="preferences_color_scheme_orange">Orange</string>
-    <string name="preferences_color_scheme_purple">Purple</string>
-    <string name="preferences_color_scheme_yellow">Yellow</string>
-    <string name="preferences_color_scheme_red">Red</string>
+    <string name="preferences_color_scheme_blue">Mavi</string>
+    <string name="preferences_color_scheme_pink">Pembe</string>
+    <string name="preferences_color_scheme_green">Yeşil</string>
+    <string name="preferences_color_scheme_orange">Turuncu</string>
+    <string name="preferences_color_scheme_purple">Mor</string>
+    <string name="preferences_color_scheme_yellow">Sarı</string>
+    <string name="preferences_color_scheme_red">Kırmızı</string>
 
-    <string name="preferences_sort_method">Sort by</string>
-    <string name="preferences_sort_method_title_asc">Title (ascending)</string>
-    <string name="preferences_sort_method_title_desc">Title (descending)</string>
-    <string name="preferences_sort_method_created_asc">Date created (ascending)</string>
-    <string name="preferences_sort_method_created_desc">Date created (descending)</string>
-    <string name="preferences_sort_method_modified_asc">Date modified (ascending)</string>
-    <string name="preferences_sort_method_modified_desc">Date modified (descending)</string>
+    <string name="preferences_sort_method">Sıralama</string>
+    <string name="preferences_sort_method_title_asc">Başlığa Göre (Artan)</string>
+    <string name="preferences_sort_method_title_desc">Başlığa Göre (Azalan)</string>
+    <string name="preferences_sort_method_created_asc">Oluşturulma Tarihi (Artan)</string>
+    <string name="preferences_sort_method_created_desc">Oluşturulma Tarihi (Azalan)</string>
+    <string name="preferences_sort_method_modified_asc">Değiştirilme Tarihi (Artan)</string>
+    <string name="preferences_sort_method_modified_desc">Değiştirilme Tarihi (Azalan)</string>
 
-    <string name="preferences_show_date">Show date created/modified</string>
-    <string name="preferences_date_format">Date format</string>
-    <string name="preferences_time_format">Time format</string>
+    <string name="preferences_show_date">Oluşturma/Değiştirilme tarihini göster.</string>
+    <string name="preferences_date_format">Tarih Formatı</string>
+    <string name="preferences_time_format">Zaman Formatı</string>
 
-    <string name="preferences_header_other">Other</string>
+    <string name="preferences_header_other">Diğer</string>
     <string name="preferences_group_notes_without_notebook">Group notes which are not in any notebook</string>
-    <string name="preferences_open_media_in">Open media in</string>
-    <string name="preferences_open_media_in_internal">Internal player</string>
-    <string name="preferences_open_media_in_external">External player</string>
-    <string name="preferences_note_deletion_time">Delete notes in bin</string>
-    <string name="preferences_note_deletion_time_instantly">Instantly</string>
-    <string name="preferences_note_deletion_time_week">After 7 days</string>
-    <string name="preferences_note_deletion_time_two_weeks">After 14 days</string>
-    <string name="preferences_note_deletion_time_month">After 30 days</string>
+    <string name="preferences_open_media_in">Medyayı Birlikte Aç</string>
+    <string name="preferences_open_media_in_internal">Dahili Oynatıcı</string>
+    <string name="preferences_open_media_in_external">Harici Oynatıcı</string>
+    <string name="preferences_note_deletion_time">Çöpteki Notların Temizlenmesi</string>
+    <string name="preferences_note_deletion_time_instantly">Anında</string>
+    <string name="preferences_note_deletion_time_week">7 gün sonra</string>
+    <string name="preferences_note_deletion_time_two_weeks">14 gün sonra</string>
+    <string name="preferences_note_deletion_time_month">30 gün sonra</string>
 
-    <string name="preferences_header_backup">Backup</string>
-    <string name="preferences_create_backup">Create a backup</string>
-    <string name="preferences_create_backup_subtext">Export all notes to a backup file.</string>
-    <string name="preferences_restore">Restore</string>
-    <string name="preferences_restore_subtext">Load notes from a backup file.</string>
-    <string name="preferences_backup_strategy">Backup strategy for attachments</string>
-    <string name="preferences_backup_strategy_include_files">Backup everything</string>
-    <string name="preferences_backup_strategy_keep_info">Only backup description and local path</string>
-    <string name="preferences_backup_strategy_keep_nothing">Do not backup attachments</string>
+    <string name="preferences_header_backup">Yedekleme</string>
+    <string name="preferences_create_backup">Bir yedek oluştur</string>
+    <string name="preferences_create_backup_subtext">Tüm notların bir yedeğini alır.</string>
+    <string name="preferences_restore">Geri Yükle</string>
+    <string name="preferences_restore_subtext">Norları bir yedek dosyasından geri yükler.</string>
+    <string name="preferences_backup_strategy">Ekler için yedekleme usûlü</string>
+    <string name="preferences_backup_strategy_include_files">Her şeyi yedekle</string>
+    <string name="preferences_backup_strategy_keep_info">Yalnızca yedek açıklaması ve yerel konumu</string>
+    <string name="preferences_backup_strategy_keep_nothing">Ekleri yedekleme</string>
 
-    <string name="preferences_header_syncing">Syncing</string>
-    <string name="preferences_go_to_sync_settings">Go to sync settings</string>
-    <string name="preferences_currently_syncing_with">Currently syncing with %s</string>
-    <string name="preferences_currently_not_syncing">Currently not syncing</string>
-    <string name="preferences_cloud_service">Syncing service</string>
-    <string name="preferences_cloud_service_disabled">Disabled</string>
+    <string name="preferences_header_syncing">Senkronizasyon</string>
+    <string name="preferences_go_to_sync_settings">Senkronizasyon ayarlarına git</string>
+    <string name="preferences_currently_syncing_with">Şu an %s ile senkronize ediliyor</string>
+    <string name="preferences_currently_not_syncing">Şu an senkronize edilmiyor</string>
+    <string name="preferences_cloud_service">Senkronizasyon hizmeti</string>
+    <string name="preferences_cloud_service_disabled">Devre dışı</string>
     <string name="preferences_cloud_service_nextcloud">Nextcloud</string>
-    <string name="preferences_sync_experimental_warning">Syncing functionality is currently experimental.\nYou may encounter bugs.</string>
-    <string name="preferences_nextcloud_limited_features">Keep in mind Nextcloud Notes does not support features such as tags, attachments, reminders, task lists and more.</string>
-    <string name="preferences_nextcloud_account">Nextcloud account</string>
-    <string name="preferences_nextcloud_instance_url">Nextcloud instance URL</string>
-    <string name="preferences_nextcloud_set_your_credentials">Set your credentials</string>
-    <string name="preferences_nextcloud_set_server_url">Set the server\'s URL</string>
+    <string name="preferences_sync_experimental_warning">Senkronizasyon fonksiyonu şimdilik deneyseldir.\nHatalarla karşılaşabilirsiniz.</string>
+    <string name="preferences_nextcloud_limited_features">Lütfen Nextcloud Notes'un etiketler, ekler, hatırlatıcılar, görevler ve dahası gibi özellikleri desteklemediğini unutmayın.</string>
+    <string name="preferences_nextcloud_account">Nextcloud hesabı</string>
+    <string name="preferences_nextcloud_instance_url">Nextcloud oluşumu bağlantısı</string>
+    <string name="preferences_nextcloud_set_your_credentials">Kimlik bilgilerinizi ayarlayın</string>
+    <string name="preferences_nextcloud_set_server_url">Sunucunuzun bağlantısını girin</string>
     <string name="preferences_sync_on_wifi">Wi-Fi</string>
-    <string name="preferences_sync_on_wifi_data">Wi-Fi or Data</string>
-    <string name="preferences_sync_when_on">Sync when on</string>
-    <string name="preferences_background_sync">Background syncing</string>
-    <string name="preferences_background_sync_enabled">Enabled</string>
-    <string name="preferences_background_sync_disabled">Disabled</string>
-    <string name="preferences_new_notes_synchronizable">New notes synchronizable</string>
+    <string name="preferences_sync_on_wifi_data">Wi-Fi ya da mobil veri</string>
+    <string name="preferences_sync_when_on">Senkronizasyon bağlantısı</string>
+    <string name="preferences_background_sync">Arkaplan Senkronizasyonu</string>
+    <string name="preferences_background_sync_enabled">Aktif</string>
+    <string name="preferences_background_sync_disabled">Devre dışı</string>
+    <string name="preferences_new_notes_synchronizable">Yeni notlar senkronize edilebilir</string>
 
 
     <!-- About -->
-    <string name="about_version">Version</string>
-    <string name="about_website">Website</string>
-    <string name="about_developer">Developer</string>
-    <string name="about_contribute">Contribute</string>
-    <string name="about_support">Support</string>
-    <string name="about_support_subtext">Creating and maintaining open-source projects is time-consuming and provides
-        no profit.\nBuy the developers a beer!
+    <string name="about_version">Sürüm</string>
+    <string name="about_website">Web Sitesi</string>
+    <string name="about_developer">Geliştirici</string>
+    <string name="about_contribute">Katkıda Bulunun</string>
+    <string name="about_support">Destek</string>
+    <string name="about_support_subtext">Açık-kaynak projeleri geliştirmek ve bakımını sağlamak zaman alıcı olup hiçbir kâr sağlamamaktadır.
+                  \nGeliştiricilere bağışta bulunabilirsiniz!
     </string>
-    <string name="about_libraries">Libraries</string>
-    <string name="about_libraries_subtext">View third-party libraries and licenses.</string>
+    <string name="about_libraries">Kütüphaneler</string>
+    <string name="about_libraries_subtext">Üçüncü parti kütüphaneleri ve lisansları görüntüleyin.</string>
 
 
     <!-- General -->
